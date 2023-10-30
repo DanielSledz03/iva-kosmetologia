@@ -5,7 +5,7 @@
 
 
 ## General info
-### I am currently working on this project. The website is created on order for a cosmetic studio. To create this page, I used the Next js technology. The customer will be able to fill in the data via the headless cms’a panel - Strapi.
+###  Work on the project was completed in June 2022. A website created to order for a beauty studio. I used Next js technology to create this website. The customer will be able to complete the data via the headless CMS panel - Strapi.
 
 ## Live preview: <a href="https://www.ivakosmetologia.pl/">ivakosmetologia.pl</a>
 
